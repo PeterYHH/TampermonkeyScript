@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Figma: 沒登入時，隱藏登入蓋版框
 // @namespace    https://raw.githubusercontent.com/PeterYHH/TampermonkeyScript/main/src/Figma_HideLoginPopupWindow.js
-// @version      20240809001
+// @version      20240809002
 // @description  fimga: 沒登入時，隱藏登入蓋版框
 // @author       PeterYang
 // @match        https://www.figma.com/design/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=figma.com
 // @grant        none
 // @source       https://raw.githubusercontent.com/PeterYHH/TampermonkeyScript/main/src/Figma_HideLoginPopupWindow.js
+// @updateURL    https://raw.githubusercontent.com/PeterYHH/TampermonkeyScript/main/src/Figma_HideLoginPopupWindow.js
+// @downloadURL  https://raw.githubusercontent.com/PeterYHH/TampermonkeyScript/main/src/Figma_HideLoginPopupWindow.js
 
 // ==/UserScript==
 
