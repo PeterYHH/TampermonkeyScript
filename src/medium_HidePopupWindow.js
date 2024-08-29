@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         medium: 隱藏蓋版框
-// @namespace    
-// @version      20240829001
+// @namespace    https://raw.githubusercontent.com/PeterYHH/TampermonkeyScript/main/src/medium_HidePopupWindow.js
+// @version      20240829002
 // @description  medium: 隱藏蓋版框
 // @author       PeterYang
 // @match        https://medium.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=medium.com
 // @grant        none
+// @source       https://raw.githubusercontent.com/PeterYHH/TampermonkeyScript/main/src/medium_HidePopupWindow.js
+// @updateURL    https://raw.githubusercontent.com/PeterYHH/TampermonkeyScript/main/src/medium_HidePopupWindow.js
+// @downloadURL  https://raw.githubusercontent.com/PeterYHH/TampermonkeyScript/main/src/medium_HidePopupWindow.js
 // ==/UserScript==
 
 (function() {
